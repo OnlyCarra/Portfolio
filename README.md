@@ -1,7 +1,7 @@
 <1DOCTYPE html>
 <html>
 <lacarra></lacarra>
-<head> Wings and Things </head>
+<title> Wings and Things </title>
 <h1> WE HAVE MULTIPLE FLAVORED WINGS OF YOUR CHOICE </h1>
 <body>
 <p>
