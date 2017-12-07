@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<lacarra></lacarra>
+<marquee> CHICKEN WINGS ON SALE AT AMERICAN DELI TODAY $2.50 </marquee>
 <head> Wings and Things </head>
 <h1> WE HAVE MULTIPLE FLAVORED WINGS OF YOUR CHOICE </h1>
 <body>
